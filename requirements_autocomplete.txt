@@ -1,2 +1,2 @@
 lxml
-ptpython
+ptpython==0.41
