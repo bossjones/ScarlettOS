@@ -83,7 +83,7 @@ requests-mock==1.5.0
 requests==2.19.1          # via coveralls, requests-mock, sphinx
 rpyc==4.0.1               # via pystuck
 simplegeneric==0.8.1      # via ipython
-six==1.11.0               # via astroid, cryptography, freezegun, hunter, mock, more-itertools, packaging, prompt-toolkit, pydocstyle, pylint, pytest, python-dateutil, requests-mock, sphinx, traitlets
+six==1.14.0               # via astroid, cryptography, freezegun, hunter, mock, more-itertools, packaging, prompt-toolkit, pydocstyle, pylint, pytest, python-dateutil, requests-mock, sphinx, traitlets
 snowballstemmer==1.2.1    # via pydocstyle, sphinx
 sphinx==1.7.5
 sphinxcontrib-websupport==1.1.0  # via sphinx

@@ -32,7 +32,7 @@ ruamel.std.argparse==0.8.1  # via ruamel.yaml.cmd
 ruamel.yaml.cmd==0.4.2
 ruamel.yaml.convert==0.3.0  # via ruamel.yaml.cmd
 ruamel.yaml==0.15.42
-six==1.11.0
+six==1.14.0
 typing==3.6.4
 urllib3==1.23             # via requests
 voluptuous==0.11.1
