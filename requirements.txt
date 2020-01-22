@@ -34,7 +34,7 @@ ruamel.yaml.convert==0.3.0  # via ruamel.yaml.cmd
 ruamel.yaml==0.15.42
 six==1.11.0
 typing==3.6.4
-urllib3==1.23             # via requests
+urllib3==1.25.8             # via requests
 voluptuous==0.11.1
 xdg==3.0.2
 yapf==0.22.0
