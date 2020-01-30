@@ -16,7 +16,7 @@ configobj==5.0.6          # via ruamel.yaml.cmd
 cryptography==2.2.2       # via paramiko
 fabric3==1.14.post1
 idna==2.7                 # via cryptography, requests
-jinja2==2.10
+jinja2==2.11.1
 layeredconfig==0.3.2
 markupsafe==1.0           # via jinja2
 paramiko==2.4.1           # via fabric3
