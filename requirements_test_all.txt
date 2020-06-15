@@ -86,7 +86,7 @@ simplegeneric==0.8.1      # via ipython
 six==1.11.0               # via astroid, cryptography, freezegun, hunter, mock, more-itertools, packaging, prompt-toolkit, pydocstyle, pylint, pytest, python-dateutil, requests-mock, sphinx, traitlets
 snowballstemmer==1.2.1    # via pydocstyle, sphinx
 sphinx==1.7.5
-sphinxcontrib-websupport==1.1.0  # via sphinx
+sphinxcontrib-websupport==1.2.0  # via sphinx
 termcolor==1.1.0          # via pytest-sugar
 traitlets==4.3.2          # via ipython
 urllib3==1.23             # via requests
