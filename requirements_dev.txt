@@ -98,7 +98,7 @@ termcolor==1.1.0          # via pytest-sugar
 tox==3.0.0
 traitlets==4.3.2          # via ipython
 urllib3==1.23             # via requests
-virtualenv==16.0.0        # via tox
+virtualenv==20.0.3        # via tox
 watchdog==0.8.3
 wcwidth==0.1.7            # via prompt-toolkit
 wheel==0.31.1
