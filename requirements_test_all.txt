@@ -69,7 +69,7 @@ pygments==2.2.0           # via ipython, sphinx
 pylint==1.9.2
 pyparsing==2.2.0          # via packaging
 pystuck==0.8.5
-pytest-benchmark[histogram]==3.1.1
+pytest-benchmark[histogram]==3.2.3
 pytest-cov==2.5.1
 pytest-mock==1.10.0
 pytest-rerunfailures==4.1
