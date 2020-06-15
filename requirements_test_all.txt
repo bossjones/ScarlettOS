@@ -20,7 +20,7 @@ colorama==0.3.9           # via hunter
 coverage==4.5.1
 coveralls==1.3.0
 cryptography==2.2.2
-cython==0.28.3
+cython==0.29.15
 decorator==4.3.0          # via ipython, traitlets
 docopt==0.6.2             # via coveralls
 docutils==0.14            # via sphinx
