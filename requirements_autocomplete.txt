@@ -9,7 +9,7 @@ jedi==0.12.1              # via ptpython
 lxml==4.2.3
 parso==0.3.0              # via jedi
 prompt-toolkit==1.0.15    # via ptpython
-ptpython==0.41
+ptpython==2.0.5
 pygments==2.2.0           # via ptpython
 six==1.11.0               # via prompt-toolkit
 wcwidth==0.1.7            # via prompt-toolkit

@@ -20,7 +20,7 @@ pickleshare==0.7.4        # via ipython
 pluggy==0.6.0             # via pytest
 prompt-toolkit==1.0.15    # via ipython, ptpdb, ptpython
 ptpdb==0.17
-ptpython==0.33
+ptpython==2.0.5
 ptyprocess==0.6.0         # via pexpect
 py==1.5.4                 # via pytest
 pydocstyle==2.1.1
