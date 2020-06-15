@@ -6,7 +6,7 @@
 #
 docopt==0.6.2             # via ptpython
 jedi==0.12.1              # via ptpython
-lxml==4.2.3
+lxml==4.5.0
 parso==0.3.0              # via jedi
 prompt-toolkit==1.0.15    # via ptpython
 ptpython==0.41
