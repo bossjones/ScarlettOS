@@ -60,7 +60,7 @@ pexpect==4.6.0            # via ipython
 pickleshare==0.7.4        # via ipython
 pluggy==0.6.0             # via pytest, tox
 plumbum==1.6.6            # via rpyc
-prompt-toolkit==1.0.15    # via ipython
+prompt-toolkit==3.0.3    # via ipython
 ptyprocess==0.6.0         # via pexpect
 pur==5.0.0
 py-cpuinfo==4.0.0         # via pytest-benchmark

@@ -18,7 +18,7 @@ parso==0.3.0              # via jedi
 pexpect==4.6.0            # via ipython
 pickleshare==0.7.4        # via ipython
 pluggy==0.6.0             # via pytest
-prompt-toolkit==1.0.15    # via ipython, ptpdb, ptpython
+prompt-toolkit==3.0.3    # via ipython, ptpdb, ptpython
 ptpdb==0.17
 ptpython==0.33
 ptyprocess==0.6.0         # via pexpect
