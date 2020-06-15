@@ -14,7 +14,7 @@ babel==2.6.0              # via sphinx
 backcall==0.1.0           # via ipython
 bumpversion==0.5.3
 certifi==2018.4.16        # via requests
-cffi==1.11.5              # via cryptography
+cffi==1.14.0              # via cryptography
 chardet==3.0.4            # via requests
 colorama==0.3.9           # via hunter
 coverage==4.5.1

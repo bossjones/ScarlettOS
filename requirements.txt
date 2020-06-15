@@ -7,7 +7,7 @@
 asn1crypto==0.24.0        # via cryptography
 bcrypt==3.1.4             # via paramiko
 certifi==2018.4.16        # via requests
-cffi==1.11.5              # via bcrypt, cryptography, pynacl
+cffi==1.14.0              # via bcrypt, cryptography, pynacl
 chardet==3.0.4            # via requests
 click-plugins==1.0.3      # via -r requirements.in
 click==6.7                # via -r requirements.in, click-plugins
