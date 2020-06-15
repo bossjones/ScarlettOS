@@ -101,7 +101,7 @@ urllib3==1.23             # via requests
 virtualenv==16.0.0        # via tox
 watchdog==0.8.3
 wcwidth==0.1.7            # via prompt-toolkit
-wheel==0.31.1
+wheel==0.34.2
 wmctrl==0.3               # via pdbpp
 wrapt==1.10.11            # via astroid
 xdot==0.9
