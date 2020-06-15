@@ -39,7 +39,7 @@ idna==2.7                 # via cryptography, requests
 imagesize==1.0.0          # via sphinx
 ipdb==0.11
 ipython-genutils==0.2.0   # via traitlets
-ipython==6.4.0
+ipython==7.12.0
 isort==4.3.4
 jedi==0.12.1              # via ipython
 jinja2==2.10              # via sphinx
