@@ -92,7 +92,7 @@ rpyc==4.0.1               # via pystuck
 simplegeneric==0.8.1      # via ipython
 six==1.11.0               # via astroid, cryptography, freezegun, hunter, mock, more-itertools, packaging, prompt-toolkit, pydocstyle, pylint, pytest, python-dateutil, requests-mock, sphinx, tox, traitlets
 snowballstemmer==1.2.1    # via pydocstyle, sphinx
-sphinx==1.7.5
+sphinx==2.4.1
 sphinxcontrib-websupport==1.1.0  # via sphinx
 termcolor==1.1.0          # via pytest-sugar
 tox==3.0.0
