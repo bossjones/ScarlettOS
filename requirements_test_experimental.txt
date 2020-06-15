@@ -32,6 +32,6 @@ pytest==3.6.2             # via pytest-interactive, pytest-ordering
 simplegeneric==0.8.1      # via ipython
 six==1.11.0               # via more-itertools, prompt-toolkit, pydocstyle, pytest, traitlets
 snowballstemmer==1.2.1    # via pydocstyle
-traitlets==4.3.2          # via ipython
+traitlets==4.3.3          # via ipython
 unittest2pytest==0.3
 wcwidth==0.1.7            # via prompt-toolkit
