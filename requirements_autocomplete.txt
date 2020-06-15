@@ -5,7 +5,7 @@
 #    pip-compile --output-file requirements_autocomplete.txt requirements_autocomplete.in
 #
 docopt==0.6.2             # via ptpython
-jedi==0.12.1              # via ptpython
+jedi==0.16.0              # via ptpython
 lxml==4.2.3
 parso==0.3.0              # via jedi
 prompt-toolkit==1.0.15    # via ptpython

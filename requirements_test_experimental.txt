@@ -12,7 +12,7 @@ decorator==4.3.0          # via ipython, traitlets
 docopt==0.6.2             # via ptpython
 ipython-genutils==0.2.0   # via traitlets
 ipython==6.4.0            # via pytest-interactive
-jedi==0.12.1              # via ipython, ptpython
+jedi==0.16.0              # via ipython, ptpython
 more-itertools==4.2.0     # via pytest
 parso==0.3.0              # via jedi
 pexpect==4.6.0            # via ipython
