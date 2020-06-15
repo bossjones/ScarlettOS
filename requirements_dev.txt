@@ -88,7 +88,7 @@ pytz==2018.5              # via babel
 pyyaml==3.12
 requests-mock==1.5.0
 requests==2.19.1          # via coveralls, requests-mock, sphinx
-rpyc==4.0.1               # via pystuck
+rpyc==4.1.4               # via pystuck
 simplegeneric==0.8.1      # via ipython
 six==1.11.0               # via astroid, cryptography, freezegun, hunter, mock, more-itertools, packaging, prompt-toolkit, pydocstyle, pylint, pytest, python-dateutil, requests-mock, sphinx, tox, traitlets
 snowballstemmer==1.2.1    # via pydocstyle, sphinx
