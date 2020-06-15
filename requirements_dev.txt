@@ -51,7 +51,7 @@ mock==2.0.0
 more-itertools==4.2.0     # via pytest
 mypy-lang==0.5.0
 objgraph==3.4.0
-packaging==17.1           # via sphinx
+packaging==20.1           # via sphinx
 parso==0.3.0              # via jedi
 pathtools==0.1.2          # via watchdog
 pbr==4.0.4                # via mock
